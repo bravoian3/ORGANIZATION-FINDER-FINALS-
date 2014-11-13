@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.princesskathryn.myapplication" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ust"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MyActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MyActivity2"
+            android:label="@string/title_activity_my_activity2" >
+        </activity>
+        <activity
+            android:name=".MyActivity3"
+            android:label="@string/title_activity_my_activity3" >
+        </activity>
+        <activity
+            android:name=".MyActivity4"
+            android:label="@string/title_activity_my_activity4" >
+        </activity>
+        <activity
+            android:name=".MyActivity5"
+            android:label="@string/title_activity_my_activity5" >
+        </activity>
+        <activity
+            android:name=".MyActivity6"
+            android:label="@string/title_activity_my_activity6" >
+        </activity>
+        <activity
+            android:name=".MyActivity7"
+            android:label="@string/title_activity_my_activity7" >
+        </activity>
+        <activity
+            android:name=".MyActivity8"
+            android:label="@string/title_activity_my_activity8" >
+        </activity>
+        <activity
+            android:name=".MyActivity9"
+            android:label="@string/title_activity_my_activity9" >
+        </activity>
+        <activity
+            android:name=".MyActivity10"
+            android:label="@string/title_activity_my_activity10" >
+        </activity>
+        <activity
+            android:name=".MyActivity11"
+            android:label="@string/title_activity_my_activity11" >
+        </activity>
+        <activity
+            android:name=".MyActivity12"
+            android:label="@string/title_activity_my_activity12" >
+        </activity>
+        <activity
+            android:name=".MyActivity13"
+            android:label="@string/title_activity_my_activity13" >
+        </activity>
+        <activity
+            android:name=".MyActivity14"
+            android:label="@string/title_activity_my_activity14" >
+        </activity>
+        <activity
+            android:name=".MyActivity15"
+            android:label="@string/title_activity_my_activity15" >
+        </activity>
+        <activity
+            android:name=".MyActivity16"
+            android:label="@string/title_activity_my_activity16" >
+        </activity>
+        <activity
+            android:name=".MyActivity17"
+            android:label="@string/title_activity_my_activity17" >
+        </activity>
+        <activity
+            android:name=".MyActivity18"
+            android:label="@string/title_activity_my_activity18" >
+        </activity>
+        <activity
+            android:name=".MyActivity19"
+            android:label="@string/title_activity_my_activity19" >
+        </activity>
+        <activity
+            android:name=".MyActivity20"
+            android:label="@string/title_activity_my_activity20" >
+        </activity>
+    </application>
+
+</manifest>

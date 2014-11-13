@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Organization Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="title_activity_my_activity3">MyActivity3</string>
+    <string name="title_activity_my_activity4">MyActivity4</string>
+    <string name="title_activity_my_activity5">MyActivity5</string>
+    <string name="title_activity_my_activity6">MyActivity6</string>
+    <string name="title_activity_my_activity7">MyActivity7</string>
+    <string name="title_activity_my_activity8">MyActivity8</string>
+    <string name="title_activity_my_activity9">MyActivity9</string>
+    <string name="title_activity_my_activity10">MyActivity10</string>
+    <string name="title_activity_my_activity11">MyActivity11</string>
+    <string name="title_activity_my_activity12">MyActivity12</string>
+    <string name="title_activity_my_activity13">MyActivity13</string>
+    <string name="title_activity_my_activity14">MyActivity14</string>
+    <string name="title_activity_my_activity15">MyActivity15</string>
+    <string name="title_activity_my_activity16">MyActivity16</string>
+    <string name="title_activity_my_activity17">MyActivity17</string>
+    <string name="title_activity_my_activity18">MyActivity18</string>
+    <string name="title_activity_my_activity19">MyActivity19</string>
+    <string name="title_activity_my_activity20">MyActivity20</string>
+    <string name="title_activity_my_activity21">MyActivity21</string>
+    <string name="title_activity_my_activity22">MyActivity22</string>
+    <string name="title_activity_my_activity23">MyActivity23</string>
+    <string name="title_activity_my_activity24">MyActivity24</string>
+
+</resources>

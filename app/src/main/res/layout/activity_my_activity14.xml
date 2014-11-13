@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.princesskathryn.myapplication.MyActivity14"
+    android:background="@drawable/ust">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Uniwide Organizations"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold"
+        android:textColor="#fffff2b7" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Alpha Phi Omega (APO)
+Annyeong Tomasino
+Association Internatinale des étudiants en Sciences économiques et Commerciales UST (AIESEC UST)
+Becarios de Santo Tomas (BeST)
+CFC – Youth for Christ (CFC-YFC)
+CFC – Youth for Family and Life (CFC-YFL)
+Christ’s Youth in Action (CYA)
+Community Achievers Association
+Environmental Advocates Reaching Towards Humanity UST (EARTH UST)
+Espanya United
+Fotomasino – The Thomasian Photographer’s Guild
+Marian Evangelization Community
+MEDIARTRIX
+Musikang Sikat ng mga Tomasino (MuSikaT)
+Red Cross Youth Council – UST Chapter
+Rotaract Club – UST Chapter
+Teatro Tomasino
+Thomasian Debaters’ Council
+Thomasian Nihon Kyoukai
+Thomasian Writers’ Guild
+Tomasian Cable Television (TOMCAT)
+TomasinoWeb (TomWeb)
+Unesco Club – UST
+UST Amateur Radio Club, Inc. (DX1-UST)
+"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="italic"
+        android:textColor="#fffff2b7" />
+
+</RelativeLayout>
